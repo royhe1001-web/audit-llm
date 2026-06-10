@@ -1,0 +1,7 @@
+rule_id,rule_name,severity,n_triggered,n_ann_fin_1,n_ann_fin_0,n_unknown,hit_rate_fraud
+R1,consecutive_loss,25,713,234,53,426,32.81907433380084
+R2,cashflow_divergence,30,576,178,57,341,30.90277777777778
+R3,high_leverage,15,533,143,58,332,26.82926829268293
+R4,liquidity_stress,20,676,198,71,407,29.289940828402365
+R5,asset_turnover_extreme,10,888,274,80,534,30.855855855855857
+R6,roe_anomaly,25,0,0,0,0,0.0
