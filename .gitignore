@@ -1,0 +1,72 @@
+# ==========================================
+# 1) Office / 演示文件
+# ==========================================
+*.pptx
+*.ppt
+*.docx
+*.doc
+
+# ==========================================
+# 2) 数据 / 模型(原始及衍生)
+# ==========================================
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.joblib
+data/
+models/
+output/
+reports/
+
+# ==========================================
+# 3) 报告 / 讲稿 / 文档类
+# ==========================================
+讲稿_*
+项目介绍_*
+PPT_生成指南.md
+PPT_补做说明.md
+演讲后演示_*
+temporal_progress.md
+temporal_v2_progress.md
+expand_progress.md
+optimization_progress.md
+H2_AN*.pdf
+三佳科技年报.pdf
+洲际*.pdf
+
+# ==========================================
+# 4) 原始组员数据
+# ==========================================
+STK_Violation_Main_*.xlsx
+
+# ==========================================
+# 5) Python 缓存 / 系统文件
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.bak
+*~
+.bak
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
